@@ -1,0 +1,41 @@
+.indexBody {
+    background-color: #bedeb4;
+    font-family: "Roboto";
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.welcomeBody {
+    background-color: #bedeb4;
+    font-family: "Roboto";
+    justify-content: center;
+}
+
+h1 {
+    font-size: 75px;
+    text-align: center;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+}
+
+.box {
+    background-color: white;
+    flex: 1 1 650px;
+    flex: 0 1 650px;
+    margin: 5px;
+    height: 650px;
+    padding: 20px;
+}
+
+.spacer {
+    flex: 1 1 150px;
+    flex: 0 1 150px;
+    margin: 5px;
+}
+
